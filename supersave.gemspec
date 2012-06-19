@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "lib/supersave.rb",
+    "supersave.gemspec",
     "test/helper.rb",
     "test/test_supersave.rb"
   ]
