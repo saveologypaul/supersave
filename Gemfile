@@ -1,4 +1,5 @@
 source "http://rubygems.org"
+gem 'saveassets'
 group :development, :test do
   gem "shoulda", ">= 0"
   gem "rdoc", "~> 3.12"
