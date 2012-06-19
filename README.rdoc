@@ -1,6 +1,6 @@
 = supersave
 
-Description goes here.
+Gem to install a list of common gem we use.
 
 == Contributing to supersave
  
